@@ -1,4 +1,4 @@
-# Generator kodów QR i zmiana kolorów z RGB na CMYK
+# Image Toolbox
 
 Prosty program w Pythonie, który pozwala na tworzenie kodów QR i zamianę modeli barw z RGB na CMYK
 
@@ -8,17 +8,17 @@ Prosty program w Pythonie, który pozwala na tworzenie kodów QR i zamianę mode
 **Więcej funkcji będzie dodawanych jak przyjdą mi do głowy**
 
 ## Wymagania:
-- zainstalowany Python 3.10 lub nowszy
-- biblioteki `Pillow` oraz `qrcode`
+- **Python 3.10+**
+- biblioteki wymienione w `requirements.txt`
 
-## Instalacja bibliotek:
-W terminalu wpisz komendę: 
+## Szybki setup:
+1. Sklonuj repo lub pobierz pliki
+2. Zainstaluj wymagane biblioteki:
 ```bash
-pip install qrcode Pillow
+pip install -r requirements.txt
 ```
-
-## Uruchomienie programu:
-W terminalu wpisz komendę:
+3. Uruchomienie programu:
+   W terminalu wpisz komendę:
 ```bash
-python altimejt-pajton-kod.py
+python toolbox.py
 ```
