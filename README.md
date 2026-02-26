@@ -1,0 +1,1 @@
+# ultymatywny-wonsz-kod
