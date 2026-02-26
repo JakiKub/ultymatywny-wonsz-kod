@@ -3,8 +3,9 @@
 Prosty program w Pythonie, który pozwala na tworzenie kodów QR i zamianę modeli barw z RGB na CMYK
 
 ## Funkcje:
-**Generowanie kodów QR:** tworzy kody QR z podanego linku
-**Konwersja RGB na CMYK:** przydatna rzecz, jeśli potrzeba czegoś do drukarni
+**Generowanie kodów QR:** tworzy kody QR z podanego linku\
+**Konwersja RGB na CMYK:** przydatna rzecz, jeśli potrzeba czegoś do drukarni\
+**Więcej funkcji będzie dodawanych jak przyjdą mi do głowy**
 
 ## Wymagania:
 - zainstalowany Python 3.10 lub nowszy
